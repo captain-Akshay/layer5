@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkLayer5=self.webpackChunkLayer5||[]).push([[8145],{58065:function(e,d,b){b.r(d);var t=b(67294),r=b(51733);d.default=()=>t.createElement("main",null,t.createElement(r.Z,{style:{border:"1px solid #eee"},embedId:"embedded-design-6f2255ba-54bf-4cb8-9033-262b8464d5d2",embedScriptSrc:"embed-test/embedded-design-embed1.js"}))}}]);
-//# sourceMappingURL=component---src-pages-embed-js-86318f0cccca0b03c3f2.js.map
